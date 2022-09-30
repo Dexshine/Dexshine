@@ -1,4 +1,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dexshine&show_icons=true&theme=dracula)
-image:: https://wakatime.com/share/@defcdabc-f4be-45c3-b41e-e665d34d4712/1fa3335c-b79b-466d-9c97-5fa4c6bf7fbc.png
- :target: https://wakatime.com/
+
+.. image:: https://wakatime.com/share/@defcdabc-f4be-45c3-b41e-e665d34d4712/b7f405e6-8c1c-4a3c-af86-688fe1772e0a.png
+    :target: https://wakatime.com/
